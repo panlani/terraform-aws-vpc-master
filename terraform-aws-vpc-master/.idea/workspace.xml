@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/RiskTables-master/RiskTables-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/ScalaSpark-LastFM1k/ScalaSpark-LastFM1k" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Spark-Structured-Streaming-Examples-master/Spark-Structured-Streaming-Examples-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/SparkStreaming-KafkaSample-master/SparkStreaming-KafkaSample-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/example-spark-kafka-master/example-spark-kafka-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/example-spark-scala-read-and-write-from-mongo-master/example-spark-scala-read-and-write-from-mongo-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/gatling-sbt-plugin-demo-master/gatling-sbt-plugin-demo-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/kafka-manager-master/kafka-manager-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/kafka-streams-scala-examples-master/kafka-streams-scala-examples-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/robospecs_example-master/robospecs_example-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/scaladiagrams-master/scaladiagrams-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spark-kafka-master/spark-kafka-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/sparkhive-master/sparkhive-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Google Drive/Project/MI-Initials-master/MI-Initials-master/Prj-Load-Json-Postgres" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Google Drive/Project/blockchain/tmp/KafkaProducer-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Project/Akka-examples-master/Akka-examples-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Project/Akka-examples-master/Akka-examples-master - Copy" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Project/Akka-examples-master/Akka-examples-master - Copy/simple-actor" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Project/KafkaOffsetMonitor-master/KafkaOffsetMonitor-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Project/akka-quickstart-scala/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Project/poc/ApacheKafkaTutorials-master/ApacheKafkaTutorials-master/AvroProducer-V2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Project/samza-scala-example-project-master/samza-scala-example-project-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Project/simple-file-reader-akka-actors-master/simple-file-reader-akka-actors-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive/Desktop/kafka-hdfs-sink-master/kafka-hdfs-sink-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive/Desktop/spark-kafka-master (1)/spark-kafka-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive/Desktop/streaming" value="PREVIEW" />
+        <entry key="C:/kafka/kafka-beginners/example-spark-kafka-master" value="PREVIEW" />
+        <entry key="C:/kafka/kafka-manager" value="PREVIEW" />
+        <entry key="C:/poc/KafkaProducer-master/KafkaProducer-master" value="PREVIEW" />
+        <entry key="C:/poc/MI-Initials-master/MI-Initials-master/Prj-Load-Json-Postgres" value="PREVIEW" />
+        <entry key="C:/poc/MI-Initials-master/MI-Initials-master/Prj-Spark-Postgres-CSV-Scala" value="PREVIEW" />
+        <entry key="C:/poc/SparkStreamingPlays-master/SparkStreamingPlays-master" value="PREVIEW" />
+        <entry key="C:/poc/example-spark-kafka-master/example-spark-kafka-master" value="PREVIEW" />
+        <entry key="C:/poc/kafkarunners/kafka" value="PREVIEW" />
+        <entry key="C:/poc/scalachain-master/scalachain-master" value="PREVIEW" />
+        <entry key="C:/test/allproj/ApacheKafka/AvroConsumer-V2" value="PREVIEW" />
+        <entry key="C:/test/allproj/ApacheKafka/AvroProducer-V2" value="PREVIEW" />
+        <entry key="C:/test/allproj/test/kafka" value="PREVIEW" />
+        <entry key="C:/test/gatling" value="PREVIEW" />
+        <entry key="C:/test/gatling/project" value="PREVIEW" />
+        <entry key="C:/test/oct18/spark2.0" value="PREVIEW" />
+        <entry key="C:/test/sparkfm/kafka-integration-patterns-master" value="PREVIEW" />
+        <entry key="C:/tmp/gatling" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
